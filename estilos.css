@@ -1,0 +1,54 @@
+.btn{
+    padding: 9px;
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    margin-top: 50px;
+   
+
+
+}
+
+.primary{
+    background-color: rgb(13, 110, 253);
+}
+
+
+.secundary{
+    background-color: rgb(108, 117, 125);
+}
+
+.succes{
+    background-color: rgb(25, 135, 84);
+}
+
+.danger{
+    background-color: rgb(220, 53, 69);
+}
+
+.warning{
+    background-color: rgb(255, 193, 7);
+    color: black;
+}
+
+.info{
+    background-color: rgb(13, 202, 240);
+}
+
+.ligth{
+    background-color: rgb(248, 249, 250);
+    color: black;
+}
+
+.dark{
+    background-color: rgb(33, 37, 41);
+}
+
+.link{
+    background-color: rgb(0, 0, 0, 0);
+    border: 0;
+    color: blue;
+    text-decoration: underline ;
+}
+
+
